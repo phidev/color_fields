@@ -7,7 +7,7 @@ class Homepage extends StatefulWidget {
 }
 
 class _HomepageState extends State<Homepage> {
-  String col ="";
+  String col = "";
   @override
   Widget build(BuildContext context) {
     return Center(
@@ -16,10 +16,10 @@ class _HomepageState extends State<Homepage> {
         alignment: WrapAlignment.spaceAround,
         spacing: 20.0,
         runSpacing: 20.0,
-        children:<Widget> [
+        children: <Widget>[
           // Grüner Container
           InkWell(
-            onTap: (){
+            onTap: () {
               setState(() {
                 col = "Grün";
               });
@@ -42,7 +42,7 @@ class _HomepageState extends State<Homepage> {
           ),
           // Gelber Container
           InkWell(
-            onTap: (){
+            onTap: () {
               setState(() {
                 col = "Gelb";
               });
@@ -65,7 +65,7 @@ class _HomepageState extends State<Homepage> {
           ),
           // Roter Container
           InkWell(
-            onTap: (){
+            onTap: () {
               setState(() {
                 col = "Rot";
               });
@@ -88,7 +88,7 @@ class _HomepageState extends State<Homepage> {
           ),
           // Blauer Container
           InkWell(
-            onTap: (){
+            onTap: () {
               setState(() {
                 col = "Blau";
               });
@@ -106,7 +106,7 @@ class _HomepageState extends State<Homepage> {
                   )),
               decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(5),
-                  color: Color.fromRGBO( 72, 133, 237, 1.0)),
+                  color: Color.fromRGBO(72, 133, 237, 1.0)),
             ),
           ),
           Container(
