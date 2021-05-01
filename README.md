@@ -1,7 +1,7 @@
 # color_fields
 
 Clickable color fields
-![](img/screenshot.png)
+![](img/screenshot.png width: 20)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
