@@ -1,7 +1,7 @@
 # color_fields
 
 Clickable color fields
-![](img/screenshot.png ="120x120")
+![](img/screenshot.png)
 
 ## Getting Started
 
