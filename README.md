@@ -1,6 +1,7 @@
 # color_fields
 
 Clickable color fields
+![Screenshot](screenshot.png)
 
 ## Getting Started
 
