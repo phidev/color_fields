@@ -2,6 +2,7 @@
 
 Clickable color fields
 ![](img/screenshot.png width: "20")
+<img src="../img/screenshot.png" width="48">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
